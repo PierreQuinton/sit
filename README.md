@@ -1,2 +1,2 @@
 # sit
-Semantical Information Tracker is an information tracker whose purpose is to 
+An sematic information tracker, abstracting from syntactic differences to achieve a less conflicting merge process.
